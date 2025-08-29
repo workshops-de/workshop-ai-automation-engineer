@@ -32,8 +32,8 @@ By the end of Day 3, you will:
 - Resource management
 - Custom tool development
 
-#### 🛠 Exercise 10.1: MCP Integration
-**File**: `exercises/10-mcp-servers/integration.md`
+#### 🛠 Exercise 10.1: MCP Server Integration
+**File**: `exercises/10-mcp-servers/mcp-integration.md`
 - Install official MCP servers
 - Configure for ContentFlow AI
 - Implement file system access
@@ -57,7 +57,7 @@ By the end of Day 3, you will:
 - Backup and disaster recovery
 - Deployment automation
 
-#### 🛠 Exercise 11.1: Production Setup
+#### 🛠 Exercise 11.1: Production Deployment
 **File**: `exercises/11-production/deployment.md`
 - Configure production environment
 - Set up monitoring
@@ -82,7 +82,7 @@ By the end of Day 3, you will:
 - Token usage optimization
 - Performance monitoring
 
-#### 🛠 Exercise 12.1: Optimization Sprint
+#### 🛠 Exercise 12.1: Performance Optimization
 **File**: `exercises/12-optimization/performance.md`
 - Implement caching layer
 - Optimize API calls
@@ -106,8 +106,8 @@ By the end of Day 3, you will:
 - Documentation generation
 - Handover preparation
 
-#### 🛠 Exercise 13.1: Client Campaign
-**File**: `exercises/13-complete-system/client-campaign.md`
+#### 🛠 Exercise 13.1: Complete System Integration
+**File**: `exercises/13-complete-system/final-integration.md`
 - Create complete marketing campaign
 - Generate all content types
 - Implement review workflow

@@ -54,8 +54,8 @@ By the end of Day 1, you will:
 - Chain-of-thought prompting
 - Output formatting (JSON, structured data)
 
-#### 🛠 Exercise 2.1: Email Classifier Prompts
-**File**: `exercises/02-prompt-engineering/email-classifier.md`
+#### 🛠 Exercise 2.1: Content Prompt Library
+**File**: `exercises/02-prompt-engineering/content-prompt-library.md`
 - Design prompts for email classification
 - Create system instructions
 - Implement output schemas
@@ -101,8 +101,8 @@ By the end of Day 1, you will:
 - Error handling in N8N
 - Debugging workflows
 
-#### 🛠 Exercise 4.1: Hello SmartFlow
-**File**: `exercises/04-n8n-basics/hello-smartflow.md`
+#### 🛠 Exercise 4.1: First Content Workflow
+**File**: `exercises/04-n8n-basics/first-workflow.md`
 - Create first N8N workflow
 - Connect multiple nodes
 - Transform data between nodes
@@ -119,8 +119,8 @@ By the end of Day 1, you will:
 - Request/response handling
 - Rate limiting considerations
 
-#### 🛠 Exercise 5.1: Smart Email Classifier
-**File**: `exercises/05-first-workflow/email-classifier-workflow.md`
+#### 🛠 Exercise 5.1: Intelligent Content Workflow
+**File**: `exercises/05-first-workflow/intelligent-content-workflow.md`
 - Build complete email classification workflow
 - Integrate Claude AI node
 - Process test emails

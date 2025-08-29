@@ -32,8 +32,8 @@ By the end of Day 2, you will:
 - Rate limiting and retry strategies
 - Webhook implementation
 
-#### 🛠 Exercise 6.1: Multi-Service Integration
-**File**: `exercises/06-api-integration/multi-service.md`
+#### 🛠 Exercise 6.1: Media Generation with fal.ai
+**File**: `exercises/06-api-integration/fal-ai-media-generation.md`
 - Connect to email service API
 - Integrate CRM system
 - Add notification service
@@ -56,8 +56,8 @@ By the end of Day 2, you will:
 - Data aggregation and merging
 - Advanced expressions and functions
 
-#### 🛠 Exercise 7.1: Document Processing Pipeline
-**File**: `exercises/07-advanced-n8n/document-pipeline.md`
+#### 🛠 Exercise 7.1: Multi-Branch Workflows
+**File**: `exercises/07-advanced-n8n/multi-branch-workflows.md`
 - Build multi-branch workflow
 - Process different document types
 - Implement parallel processing
@@ -80,8 +80,8 @@ By the end of Day 2, you will:
 - Supervisor patterns
 - Multi-agent orchestration
 
-#### 🛠 Exercise 8.1: Research Agent
-**File**: `exercises/08-agents/research-agent.md`
+#### 🛠 Exercise 8.1: Building Content Agents
+**File**: `exercises/08-agents/content-agents.md`
 - Create information gathering agent
 - Implement tool selection logic
 - Add memory management
@@ -103,8 +103,8 @@ By the end of Day 2, you will:
 - Image generation integration
 - Content approval workflows
 
-#### 🛠 Exercise 9.1: SmartFlow Content Engine
-**File**: `exercises/09-content-generation/content-engine.md`
+#### 🛠 Exercise 9.1: Complete Content System
+**File**: `exercises/09-content-generation/complete-system.md`
 - Build content generation workflow
 - Create multiple format outputs
 - Implement brand guidelines
